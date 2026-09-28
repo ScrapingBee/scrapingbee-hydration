@@ -1,0 +1,15 @@
+{
+  "name": "scrapingbee-jsdom-hydration",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "dependencies": {
+    "jsdom": "^29.1.1",
+    "undici": "^6.19.0"
+  }
+}
